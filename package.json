@@ -1,5 +1,5 @@
 {
-  "name": "nuxt",
+  "name": "nuxt-test",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -14,8 +14,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@nuxtjs/axios": "5.12.0",
-    "@nuxtjs/bulma": "1.2.7",
+    "@nuxtjs/axios": "5.11.0",
     "nuxt": "2.13.0",
     "spotify-web-api-js": "1.4.0"
   },
@@ -23,6 +22,7 @@
     "@nuxtjs/eslint-config": "3.0.x",
     "@nuxtjs/eslint-module": "2.0.x",
     "@nuxtjs/stylelint-module": "4.0.x",
+    "@nuxtjs/tailwindcss": "2.0.x",
     "@vue/test-utils": "1.0.x",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "10.1.x",
