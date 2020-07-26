@@ -14,26 +14,27 @@
     "test": "jest"
   },
   "dependencies": {
-    "@nuxtjs/bulma": "^1.2.7",
-    "nuxt": "^2.13.0"
+    "@nuxtjs/bulma": "1.2.7",
+    "nuxt": "2.13.0",
+    "spotify-web-api-js": "1.4.0"
   },
   "devDependencies": {
-    "@nuxtjs/eslint-config": "^3.0.0",
-    "@nuxtjs/eslint-module": "^2.0.0",
-    "@nuxtjs/stylelint-module": "^4.0.0",
-    "@vue/test-utils": "^1.0.3",
+    "@nuxtjs/eslint-config": "3.0.x",
+    "@nuxtjs/eslint-module": "2.0.x",
+    "@nuxtjs/stylelint-module": "4.0.x",
+    "@vue/test-utils": "1.0.x",
     "babel-core": "7.0.0-bridge.0",
-    "babel-eslint": "^10.1.0",
-    "babel-jest": "^26.0.1",
-    "eslint": "^7.2.0",
-    "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-nuxt": "^1.0.0",
-    "eslint-plugin-prettier": "^3.1.4",
-    "jest": "^26.0.1",
-    "prettier": "^2.0.5",
-    "stylelint": "^13.6.1",
-    "stylelint-config-prettier": "^8.0.1",
-    "stylelint-config-standard": "^20.0.0",
-    "vue-jest": "^3.0.4"
+    "babel-eslint": "10.1.x",
+    "babel-jest": "26.0.x",
+    "eslint": "7.2.x",
+    "eslint-config-prettier": "6.11.x",
+    "eslint-plugin-nuxt": "1.0.x",
+    "eslint-plugin-prettier": "3.1.x",
+    "jest": "26.0.x",
+    "prettier": "2.0.x",
+    "stylelint": "13.6.x",
+    "stylelint-config-prettier": "8.0.x",
+    "stylelint-config-standard": "20.0.x",
+    "vue-jest": "3.0.x"
   }
 }
