@@ -1,0 +1,33 @@
+@import 'index.scss';
+
+html,
+body,
+#__nuxt,
+#__layout,
+#app {
+  height: 100%;
+  transition: opacity 120ms ease 0s;
+}
+
+html,
+body {
+  width: 100%;
+  position: fixed;
+  -webkit-tap-highlight-color: transparent;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: $default-font-family;
+  font-style: $default-font-style;
+  font-size: $default-font-size;
+  color: $grey-default;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  user-select: none;
+  text-size-adjust: none;
+}
