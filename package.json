@@ -19,6 +19,7 @@
     "spotify-web-api-js": "1.4.0"
   },
   "devDependencies": {
+    "@nuxtjs/dotenv": "1.4.x",
     "@nuxtjs/eslint-config": "3.0.x",
     "@nuxtjs/eslint-module": "2.0.x",
     "@nuxtjs/stylelint-module": "4.0.x",
